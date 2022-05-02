@@ -7,5 +7,5 @@ test('renders learn react link', () => {
   expect(linkElement).toBeInTheDocument();
 });
 
-for (var i = 0; i<6; i++) {
+for (var i = 0; i<4; i++) {
 }
