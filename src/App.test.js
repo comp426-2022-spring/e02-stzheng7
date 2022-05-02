@@ -8,5 +8,5 @@ test('renders learn react link', () => {
 });
 
 for (var i = 2; i<6; i++) {
-    ;
+  i = 6;
 }
